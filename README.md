@@ -109,12 +109,6 @@ This repository provides an interactive **Power BI dashboard** for analyzing Cri
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or add.
@@ -124,5 +118,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📬 Contact
 
 If you have any questions or feedback, feel free to open an issue or reach out via \[[zkhaleef27@gmail.com](mailto:zkhaleef27@gmail.com)].
+
+---
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
